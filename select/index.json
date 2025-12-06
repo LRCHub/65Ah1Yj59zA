@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Aoi",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-06T07:40:12.523257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aoi Hitomi",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/01_Aoi_Hitomi_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunrise - The Breakfast Song (Vocals by Aoi Teshima)",
+      "artist": "Satoshi Takebe",
+      "has_synced": true,
+      "path": "select/02_Sunrise_-_The_Breakfast_Song_(Vocals_by_Aoi_Teshima)_Satoshi_Takebe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunrise ~ The Breakfast Song (Vocals by Aoi Teshima)",
+      "artist": "Satoshi Takebe",
+      "has_synced": true,
+      "path": "select/03_Sunrise_~_The_Breakfast_Song_(Vocals_by_Aoi_Teshima)_Satoshi_Takebe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aoi Shiori",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/04_Aoi_Shiori_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aoi",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/05_Aoi_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aoi Honoo",
+      "artist": "Itowokashi",
+      "has_synced": true,
+      "path": "select/06_Aoi_Honoo_Itowokashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mado Kara Mieru (feat. Lia, Aoi Tada & Kaori Omura)",
+      "artist": "Christopher Tin, Kaori Omura, Lia, Aoi Tada",
+      "has_synced": true,
+      "path": "select/07_Mado_Kara_Mieru_(feat._Lia,_Aoi_Tada_&_Kaori_Omura)_Christopher_Tin,_Kaori_Omura,_Lia,_Aoi_Tada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aoi",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/08_Aoi_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aoi",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_Aoi_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alhambra no Aoi Bin",
+      "artist": "Yoshiko Sai",
+      "has_synced": false,
+      "path": "select/10_Alhambra_no_Aoi_Bin_Yoshiko_Sai.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aoi Glass Dama",
+      "artist": "Yoshiko Sai",
+      "has_synced": false,
+      "path": "select/11_Aoi_Glass_Dama_Yoshiko_Sai.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aoi Shiori (A Blue Bookmark)",
+      "artist": "Galileo Galilei",
+      "has_synced": false,
+      "path": "select/12_Aoi_Shiori_(A_Blue_Bookmark)_Galileo_Galilei.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aoi Hana Bira",
+      "artist": "7!! (Seven Oops)",
+      "has_synced": true,
+      "path": "select/13_Aoi_Hana_Bira_7!!_(Seven_Oops).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aoi Hana Bira",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/14_Aoi_Hana_Bira_7!!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aoi Sangosho",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/15_Aoi_Sangosho_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aoi Hekireki",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/16_Aoi_Hekireki_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Aoi Haru",
+      "artist": "Back Number",
+      "has_synced": true,
+      "path": "select/17_Aoi_Haru_Back_Number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aoi",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_Aoi_サカナクション.txt"
+    }
+  ]
+}
